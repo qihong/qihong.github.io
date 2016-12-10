@@ -1,1 +1,36 @@
-{"errcode":0,"msg":"20191231"}
+{
+  "errcode": 0,
+  "msg": "ok",
+  "data": [
+    {
+      "chineseName": "中央频道",
+      "englishName": "China Central Television",
+      "channels": [
+        {
+          "channelNum": 1,
+          "chineseName": "CCTV-1综合",
+          "englishName": "CCTV-1",
+          "icon": "http://download.dianshijia.cn/tvlive/data/channel_logos/v3/CCTV1.png",
+          "streams": [
+            {
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1300&tag=live&ext=m3u8&sign=live_tv&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+              "definition": "超清"
+            },
+            {
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1800&tag=live&ext=m3u8&sign=live_tv&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+              "definition": "720P"
+            },
+            {
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_800&tag=live&ext=m3u8&sign=live_tv&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+              "definition": "高清"
+            },
+            {
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_350&tag=live&ext=m3u8&sign=live_tv&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+              "definition": "标清"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
