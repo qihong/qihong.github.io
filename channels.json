@@ -13,19 +13,19 @@
           "icon": "http://download.dianshijia.cn/tvlive/data/channel_logos/v3/CCTV1.png",
           "streams": [
             {
-              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1300&tag=live&ext=m3u8&sign=live_tv&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1300&tag=live&ext=m3u8&sign=live_tv",
               "definition": "超清"
             },
             {
-              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1800&tag=live&ext=m3u8&sign=live_tv&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1800&tag=live&ext=m3u8&sign=live_tv",
               "definition": "720P"
             },
             {
-              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_800&tag=live&ext=m3u8&sign=live_tv&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_800&tag=live&ext=m3u8&sign=live_tv",
               "definition": "高清"
             },
             {
-              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_350&tag=live&ext=m3u8&sign=live_tv&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1",
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_350&tag=live&ext=m3u8&sign=live_tv",
               "definition": "标清"
             }
           ]
