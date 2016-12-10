@@ -1,1 +1,71 @@
-{"errcode":0,"msg":"ok","data":[{"chineseName":"中央频道","englishName":"China Central Television","channels":[{"channelNum":1,"chineseName":"CCTV-1综合","englishName":"CCTV-1","icon":"http://download.dianshijia.cn/tvlive/data/channel_logos/v3/CCTV1.png","streams":[{"url":"http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1300&tag=live&ext=m3u8&sign=live_tv"},{"url":"http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1800&tag=live&ext=m3u8&sign=live_tv"},{"url":"http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_800&tag=live&ext=m3u8&sign=live_tv"},{"url":"http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_350&tag=live&ext=m3u8&sign=live_tv"}]}]},{"chineseName":"新加坡","englishName":"Singapore","channels":[{"channelNum":0,"chineseName":"5频道","englishName":"Channel 5","icon":"http://198.255.14.90/iptv/logo/hd5.jpg","streams":[{"url":"http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_4_av-b.m3u8?sd=10&rebase=on"}]},{"channelNum":0,"chineseName":"8频道","englishName":"Channel 8","icon":"http://198.255.14.90/iptv/logo/hd8.jpg","streams":[{"url":"http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/index_4_av-p.m3u8?sd=10&rebase=o"}]},{"channelNum":0,"chineseName":"U频道","englishName":"Channel U","icon":"http://198.255.14.90/iptv/logo/889.jpg","streams":[{"url":"http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/index_4_av-b.m3u8?sd=10&rebase=on"}]}]}]}
+{
+  "errcode": 0,
+  "msg": "ok",
+  "data": [
+    {
+      "chineseName": "中央频道",
+      "englishName": "China Central Television",
+      "channels": [
+        {
+          "channelNum": 1,
+          "chineseName": "CCTV-1综合",
+          "englishName": "CCTV-1",
+          "icon": "http://download.dianshijia.cn/tvlive/data/channel_logos/v3/CCTV1.png",
+          "streams": [
+            {
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1300&tag=live&ext=m3u8&sign=live_tv"
+            },
+            {
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_1800&tag=live&ext=m3u8&sign=live_tv"
+            },
+            {
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_800&tag=live&ext=m3u8&sign=live_tv"
+            },
+            {
+              "url": "http://gslb.live.video123456.com/gslb?stream_id=cctv1HD_350&tag=live&ext=m3u8&sign=live_tv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chineseName": "新加坡",
+      "englishName": "Singapore",
+      "channels": [
+        {
+          "channelNum": 0,
+          "chineseName": "5频道",
+          "englishName": "Channel 5",
+          "icon": "http://198.255.14.90/iptv/logo/hd5.jpg",
+          "streams": [
+            {
+              "url": "http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_4_av-b.m3u8?sd=10&rebase=on"
+            }
+          ]
+        },
+        {
+          "channelNum": 0,
+          "chineseName": "8频道",
+          "englishName": "Channel 8",
+          "icon": "http://198.255.14.90/iptv/logo/hd8.jpg",
+          "streams": [
+            {
+              "url": "http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/index_4_av-p.m3u8?sd=10&rebase=o"
+            }
+          ]
+        },
+        {
+          "channelNum": 0,
+          "chineseName": "U频道",
+          "englishName": "Channel U",
+          "icon": "http://198.255.14.90/iptv/logo/889.jpg",
+          "streams": [
+            {
+              "url": "http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/index_4_av-b.m3u8?sd=10&rebase=on"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
